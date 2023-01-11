@@ -301,7 +301,149 @@
         "type": "text",
         "section":"2"  ,
         "validators": {}
+      },
+      
+      
+      
+      {
+        "name": "nameCompany",
+        "label": "Nombre de la empresa:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "position",
+        "label": "Puesto:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "direction",
+        "label": "Dirección:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "municipality",
+        "label": "Municipio:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "Entity",
+        "label": "Entidad:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "phoneCompany",
+        "label": "Telefono de la empresa:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "datAdmission",
+        "label": "Fecha de ingreso:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "bossName",
+        "label": "Nombre del jefe inmediato:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },{
+        "name": "antiquity",
+        "label": "Antiguedad:",
+        "value": "",
+        "type": "text",
+        "section":"3"  ,
+        "validators": {}
+      },
+
+
+
+      {
+        "name": "monthlyIncome",
+        "label": "Ingreso Mensual:",
+        "value": "",
+        "type": "text",
+        "section":"5"  ,
+        "validators": {}
+      },{
+        "name": "monthlySavings",
+        "label": "Ahorro mensual:",
+        "value": "",
+        "type": "text",
+        "section":"5"  ,
+        "validators": {}
+      },{
+        "name": "depositFrequency",
+        "label": "Frecuencia de deposito:",
+        "value": "",
+        "type": "text",
+        "section":"5"  ,
+        "validators": {}
+      },{
+        "name": "depositAmount",
+        "label": "Monto por deposito:",
+        "value": "",
+        "type": "text",
+        "section":"5"  ,
+        "validators": {}
+      },{
+        "name": "beneficiaryName",
+        "label": "Nombre del beneficiario:",
+        "value": "",
+        "type": "text",
+        "section":"6"  ,
+        "validators": {}
+      },{
+        "name": "relationship",
+        "label": "Parentesco:",
+        "value": "",
+        "type": "text",
+        "section":"6"  ,
+        "validators": {}
+      },{
+        "name": "beneficiaryBirthDate",
+        "label": "Fecha de nacimiento:",
+        "value": "",
+        "type": "text",
+        "section":"6"  ,
+        "validators": {}
+      },{
+        "name": "direction",
+        "label": "Direccion:",
+        "value": "",
+        "type": "text",
+        "section":"6"  ,
+        "validators": {}
+      },{
+        "name": "beneficiaryPhone",
+        "label": "Telefono:",
+        "value": "",
+        "type": "text",
+        "section":"6"  ,
+        "validators": {}
+      },{
+        "name": "percentage",
+        "label": "Porcentaje:",
+        "value": "",
+        "type": "text",
+        "section":"6"  ,
+        "validators": {}
       }
+      
       
       
     ]
