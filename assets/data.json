@@ -1,0 +1,308 @@
+{
+
+    "sections":[
+      {
+        "name": "Datos del cliente",
+        "section": "1"
+      },
+      {
+        "name": "Domicilio",
+        "section": "2"
+      },
+      {
+        "name": "Datos laborales",
+        "section": "3"
+      },
+      {
+        "name": "Ingresos y Egresos",
+        "section": "4"
+      },
+      {
+        "name": "Perfil transaccional",
+        "section": "5"
+      },
+      {
+        "name": "Beneficiarios en caso de fallecimiento",
+        "section": "6"
+      },
+      {
+        "name": "Ubicacion del domicilio",
+        "section": "7"
+      }
+    ],
+
+
+    "controls": [
+      {
+        "name": "phaterLastName",
+        "label": "Apellido paterno:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },
+      {
+        "name": "motherLastName",
+        "label": "Apellido materno:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },
+      {
+        "name": "names",
+        "label": "Nombres",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "document",
+        "label": "Documento con el que se identifica:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "numberDocument",
+        "label": "Numero de documento:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "rfc",
+        "label": "Rfc:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "curp",
+        "label": "CURP:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "gender",
+        "label": "Genero:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "dateOfBirth",
+        "label": "Fecha de nacimiento:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "profession",
+        "label": "Profesion:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "placeOfBirth",
+        "label": "Lugar de nacimiento, Entidad federativa y pais:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "nacinality",
+        "label": "Nacionalidad:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "civilStatus",
+        "label": "Estado civil:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "email",
+        "label": "Correo Electronico:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "promotions",
+        "label": "Desea recibir promociones:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "street",
+        "label": "Calle:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "number",
+        "label": "Numero:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "suburb",
+        "label": "colonia:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "municipality",
+        "label": "Municipio:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "state",
+        "label": "Estado:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "country",
+        "label": "Pais:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      },{
+        "name": "phoneNumber",
+        "label": "colonia:",
+        "value": "",
+        "type": "text",
+        "section":"1"  ,
+        "validators": {}
+      }, 
+
+
+
+
+      {
+        "name": "phaterLastName2",
+        "label": "Apellido paterno:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },
+      {
+        "name": "motherLastName2",
+        "label": "Apellido materno:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },
+      {
+        "name": "names2",
+        "label": "Nombres",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "document2",
+        "label": "Documento con el que se identifica:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "numberDocument2",
+        "label": "Numero de documento:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "rfc2",
+        "label": "Rfc:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "curp2",
+        "label": "CURP:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "gender2",
+        "label": "Genero:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "dateOfBirth2",
+        "label": "Fecha de nacimiento:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "profession2",
+        "label": "Profesion:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "placeOfBirth2",
+        "label": "Lugar de nacimiento, Entidad federativa y pais:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "nacinality2",
+        "label": "Nacionalidad:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "civilStatus2",
+        "label": "Estado civil:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "email2",
+        "label": "Correo Electronico:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      },{
+        "name": "ownershipPercentage2",
+        "label": "Porcentaje de titularidad:",
+        "value": "",
+        "type": "text",
+        "section":"2"  ,
+        "validators": {}
+      }
+      
+      
+    ]
+  }
