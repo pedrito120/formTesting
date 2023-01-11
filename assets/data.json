@@ -334,7 +334,7 @@
         "section":"3"  ,
         "validators": {}
       },{
-        "name": "Entity",
+        "name": "entity",
         "label": "Entidad:",
         "value": "",
         "type": "text",
